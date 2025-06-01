@@ -169,7 +169,7 @@ def main():
 
     # Main Interface of scraper which is displayed as top header of page
     st.markdown(f"""
-    <div style='background:#f8f9fa;padding:20px;border-radius:10px;margin-bottom:20px'>
+    <div style='background:#f9ff33;padding:20px;border-radius:10px;margin-bottom:20px'>
         <h1 style='color:#2874f0;text-align:center'>
             🛍️ Flipkart Smart Scraper
         </h1>
